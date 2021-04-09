@@ -1,0 +1,144 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    text-align: center;
+    font-family: 'Quicksand', sans-serif;
+    color:#40514e;
+}
+h1{
+    font-family: 'Sacramento', cursive;
+    color:#30e3ca;
+    font-size: 4rem;
+    
+}
+
+h2,h3,a{
+    font-family: 'RocknRoll One', sans-serif;
+    color:#30e3ca;
+    font-size: 1.5rem;
+
+}
+hr{
+    border-style:dotted none none none;
+    border-width: 5px;
+    width: 10%;
+    margin: 50px auto;
+
+}
+.top-container{
+   background-color: #e4f9f5;
+
+   padding: 100px 100px 0 100px;
+}
+.top-container img{
+   
+    width:80%;
+    margin: 0 auto;
+}
+p{
+    padding-top: 10px;
+    font-size: 1.25rem;
+    width:50%;
+    margin:0 auto;
+}
+
+.middle-container{
+    padding:50px;
+}
+.middle-container .profile img{
+    
+    width:150px;
+    height: 150px;
+    margin: 20px;
+}
+
+.middle-container .skills img{
+    
+    width:150px;
+    height: 150px;
+    margin: 20px;
+}
+
+.middle-container .skills table{
+    margin: 0 auto 0 auto;
+    border-spacing:10px 0px;
+    font-size: 1.25rem;
+}
+
+.middle-container .skills table img{
+    width: 75px;
+    height: 70px;
+    
+}
+
+.middle-container .My-need .abilitiesrow
+{
+    width:50%;
+    padding: 30px;
+    margin: 0 auto;
+    text-align: left;
+}
+
+.middle-container .My-need .abilitiesrow img
+{
+    width:20%;
+
+}
+
+.middle-container .My-need .abilitiesrow p
+{
+    width:100%;
+
+}
+
+.middle-container .My-need .abilitiesrow .webimg
+{
+    float: left;
+    margin-right: 20px;
+}
+
+.middle-container .My-need .abilitiesrow .desktopimg
+{
+    float: right;
+}
+
+.middle-container .contact-me .btn{
+
+    margin-top: 20px;
+    background-color: #40514e;
+    display: inline-block;
+    padding: 30px;
+    border-radius: 20px;
+    text-decoration: none;
+}
+
+.middle-container .contact-me .btn a{
+    text-decoration: none;
+}
+.middle-container .contact-me .btn a:hover{
+    color:white;
+}
+
+.bottom-container{
+    
+    background-color: #11999e;
+    padding: 30px;
+    
+}
+
+.bottom-container .footer-link{
+
+    padding:50px 50px 50px 5px;
+    text-decoration: none;
+}
+.bottom-container .footer-link:hover{
+    color:white;
+}
+.bottom-container img{
+    position: relative;
+    top:5px;
+    width: 25px;
+    height: 25px;
+}
